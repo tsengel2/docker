@@ -1,1 +1,2 @@
-image: file: 13.0/Dockerfile
+image: 
+  file: Dockerfile
